@@ -16,10 +16,12 @@
   "dependencies": {
     "body-parser": "^1.18.1",
     "express": "^4.15.4",
+    "inspect": "0.0.2",
     "lodash": "^4.17.4",
     "mongodb": "^2.2.31",
-    "mongoose": "^4.11.11",
-    "validator": "^5.7.0"
+    "mongoose": "^4.11.12",
+    "validator": "^5.7.0",
+    "yargs": "^9.0.1"
   },
   "devDependencies": {
     "expect": "^1.20.2",
